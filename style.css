@@ -116,7 +116,7 @@ body{
   width: 263px;
   height: 61px;
   left: calc(50% - 26px/2 + 27.5px);
-  top: 5px;
+  top: 70%;
   
   background: #C4C4C4;
   border-radius: 30px;
@@ -127,7 +127,7 @@ body{
     width: 263px;
     height: 61px;
     left: calc(50% - 26px/2 + 27.5px);
-    top: 5px;
+    top: 70%
     color:white;
     
     background: red;
@@ -141,7 +141,7 @@ body{
     position: absolute;
   
   left: calc(50% - 263px/2 + 27.5px);
-  top: 550px;
+  top: 650px;
   
   
     
